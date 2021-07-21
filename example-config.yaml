@@ -1,0 +1,5 @@
+5: "playerctl volume"
+36: "pamixer --toggle-mute"
+37: "playerctl previous"
+38: "playerctl play-pause"
+39: "playerctl next"
